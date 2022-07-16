@@ -2104,36 +2104,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dee11c9306afcf468c4c623c05ba4f2, type: 3}
---- !u!1 &2206219398348616076 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2609546629049162961, guid: 7dee11c9306afcf468c4c623c05ba4f2, type: 3}
-  m_PrefabInstance: {fileID: 2206219398348616075}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2206219398348616082 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7382478226457133935, guid: 7dee11c9306afcf468c4c623c05ba4f2, type: 3}
   m_PrefabInstance: {fileID: 2206219398348616075}
   m_PrefabAsset: {fileID: 0}
---- !u!95 &2206219398348616083
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2206219398348616076}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &2214288575494858873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2151,15 +2126,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2214288575551474430, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.46
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2214288575551474430, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.25
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 2214288575551474430, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 26.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2214288575551474430, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2195,31 +2170,31 @@ PrefabInstance:
       objectReference: {fileID: 2206219398348616082}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.91751
+      value: 1.5177354
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10.429264
+      value: 7.2106
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.085888
+      value: 13.127911
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.07712532
+      value: -0.033367243
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.024547134
+      value: -0.008842634
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.94987357
+      value: 0.96662945
       objectReference: {fileID: 0}
     - target: {fileID: 2214288576457901325, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.3019758
+      value: -0.25384223
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48428ed257a48fb408db5023b51a6830, type: 3}
