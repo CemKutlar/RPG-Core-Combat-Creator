@@ -116,6 +116,10 @@ PrefabInstance:
       propertyPath: health
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 8912346561695881316, guid: 7dee11c9306afcf468c4c623c05ba4f2, type: 3}
+      propertyPath: healthPoints
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dee11c9306afcf468c4c623c05ba4f2, type: 3}
 --- !u!4 &2615020788857716532 stripped

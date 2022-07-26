@@ -39,6 +39,11 @@ namespace RPG.Movement
         {
             navMeshAgent.destination = destination;
             navMeshAgent.isStopped = false;
+            //if (GetComponent<Animation>().IsPlaying("Unarmed-Attack-L3"))
+            //{
+            //    GetComponent<Animation>().Stop();
+            //}
+          
         }
 
         private void UpdateAnimator()

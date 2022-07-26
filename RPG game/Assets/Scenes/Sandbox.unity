@@ -130,10 +130,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1047538258657496622, guid: 7c59642dee7cd804da8e35025d9531b1, type: 3}
-      propertyPath: avoidancePriority
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3756409392879592305, guid: 7c59642dee7cd804da8e35025d9531b1, type: 3}
       propertyPath: m_Name
       value: Player
